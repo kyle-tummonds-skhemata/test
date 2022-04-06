@@ -1,26 +1,26 @@
 [
-  {
-    "id": 1,
-    "name": "Mark",
-    "avatar": "/src/assets/images/testimonials/roger-d.jpg",
-    "comment": "<p>We've been using Atlas for 5 years to power a crowdfunding platform that allows food garden projects to raise their own funds and qualify for grants from us. I like the ease of use both on the back end and front end. It's ready to go out of the box as is but also can be customized to suit your specific needs.</p>"
-  },
-  {
-    "id": 2,
-    "name": "James",
-    "avatar": "",
-    "comment": "<p>The best features of Atlas is the the ability to be a small team while still having the functionalities of a large corporation. You are given the web presences while simultaneously being able to connect with users via their mobile app development. This gives us the ability to connect with current and potential users anytime and anywhere.</p>"
-  },
-  {
-    "id": 3,
-    "name": "Tim",
-    "avatar": "",
-    "comment": "<p>Customizing white label crowdfunding platform at a fraction of the price for MVP to get proof of concept instead of developing a bespoke solution. Faster time to deploy, great team to help us achieve our desired outcome. </p>"
-  },
-  {
-    "id": 4,
-    "name": "Greg",
-    "avatar": "/src/assets/images/testimonials/jason-k.jpg",
-    "comment": "<p>Secure data management and quick response from the team for any customizations, changes and support.</p>"
-  }
-]
+    {
+      "id": 1,
+      "name": "Mark",
+      "avatar": "/src/assets/images/testimonials/roger-d.jpg",
+      "comment": "<p>We've been using Atlas for 5 years to power a crowdfunding platform that allows food garden projects to raise their own funds and qualify for grants from us. I like the ease of use both on the back end and front end. It's ready to go out of the box as is but also can be customized to suit your specific needs.</p>"
+    },
+    {
+      "id": 2,
+      "name": "James",
+      "avatar": "",
+      "comment": "<p>The best features of Atlas is the the ability to be a small team while still having the functionalities of a large corporation. You are given the web presences while simultaneously being able to connect with users via their mobile app development. This gives us the ability to connect with current and potential users anytime and anywhere.</p>"
+    },
+    {
+      "id": 3,
+      "name": "Tim",
+      "avatar": "",
+      "comment": "<p>Customizing white label crowdfunding platform at a fraction of the price for MVP to get proof of concept instead of developing a bespoke solution. Faster time to deploy, great team to help us achieve our desired outcome. </p>"
+    },
+    {
+      "id": 4,
+      "name": "Greg",
+      "avatar": "/src/assets/images/testimonials/jason-k.jpg",
+      "comment": "<p>Secure data management and quick response from the team for any customizations, changes and support.</p>"
+    }
+  ]
